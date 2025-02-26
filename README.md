@@ -1,4 +1,4 @@
-# Parallel and Distributed Projects 🚀
+# Parallel and Distributed Projects 💻
 
 This repository contains two projects related to **parallel and distributed programming**. Both projects showcase the implementation of key concepts using different approaches and technologies.
 
